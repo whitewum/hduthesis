@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.10)  11 JUL 2025 15:06
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.10)  11 JUL 2025 15:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1411,50 +1411,59 @@ File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 shapes.geometric.code.tex
 File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-\c@citecount=\count432
- (./hdu-bc.config.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/gbt7714/gbt7714.sty
+Package: gbt7714 2022/10/03 v2.1.5 GB/T 7714 BibTeX Style
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip88
+\bibsep=\skip89
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count432
+))
+(./hdu-bc.config.code.tex
 File: hdu-bc.config.code.tex 2025-03-23 v1.1.1 hduThesiS Bc.config Module
 \l__hdu_grade_int=\count433
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
-\cftparskip=\skip88
-\cftbeforetoctitleskip=\skip89
-\cftaftertoctitleskip=\skip90
-\cftbeforepartskip=\skip91
-\cftpartnumwidth=\skip92
-\cftpartindent=\skip93
-\cftbeforechapskip=\skip94
-\cftchapindent=\skip95
-\cftchapnumwidth=\skip96
-\cftbeforesecskip=\skip97
-\cftsecindent=\skip98
-\cftsecnumwidth=\skip99
-\cftbeforesubsecskip=\skip100
-\cftsubsecindent=\skip101
-\cftsubsecnumwidth=\skip102
-\cftbeforesubsubsecskip=\skip103
-\cftsubsubsecindent=\skip104
-\cftsubsubsecnumwidth=\skip105
-\cftbeforeparaskip=\skip106
-\cftparaindent=\skip107
-\cftparanumwidth=\skip108
-\cftbeforesubparaskip=\skip109
-\cftsubparaindent=\skip110
-\cftsubparanumwidth=\skip111
-\cftbeforeloftitleskip=\skip112
-\cftafterloftitleskip=\skip113
-\cftbeforefigskip=\skip114
-\cftfigindent=\skip115
-\cftfignumwidth=\skip116
+\cftparskip=\skip90
+\cftbeforetoctitleskip=\skip91
+\cftaftertoctitleskip=\skip92
+\cftbeforepartskip=\skip93
+\cftpartnumwidth=\skip94
+\cftpartindent=\skip95
+\cftbeforechapskip=\skip96
+\cftchapindent=\skip97
+\cftchapnumwidth=\skip98
+\cftbeforesecskip=\skip99
+\cftsecindent=\skip100
+\cftsecnumwidth=\skip101
+\cftbeforesubsecskip=\skip102
+\cftsubsecindent=\skip103
+\cftsubsecnumwidth=\skip104
+\cftbeforesubsubsecskip=\skip105
+\cftsubsubsecindent=\skip106
+\cftsubsubsecnumwidth=\skip107
+\cftbeforeparaskip=\skip108
+\cftparaindent=\skip109
+\cftparanumwidth=\skip110
+\cftbeforesubparaskip=\skip111
+\cftsubparaindent=\skip112
+\cftsubparanumwidth=\skip113
+\cftbeforeloftitleskip=\skip114
+\cftafterloftitleskip=\skip115
+\cftbeforefigskip=\skip116
+\cftfigindent=\skip117
+\cftfignumwidth=\skip118
 \c@lofdepth=\count434
 \c@lotdepth=\count435
-\cftbeforelottitleskip=\skip117
-\cftafterlottitleskip=\skip118
-\cftbeforetabskip=\skip119
-\cfttabindent=\skip120
-\cfttabnumwidth=\skip121
+\cftbeforelottitleskip=\skip119
+\cftafterlottitleskip=\skip120
+\cftbeforetabskip=\skip121
+\cfttabindent=\skip122
+\cfttabnumwidth=\skip123
 ))
 Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 22.
@@ -1577,6 +1586,10 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+
+LaTeX Font Warning: Font shape `TU/STSong(1)/b/n' undefined
+(Font)              using `TU/STSong(1)/m/n' instead on input line 24.
+
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
 (Font)              scaled to size 12.04628pt on input line 24.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
@@ -1600,11 +1613,6 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-LaTeX Font Warning: Font shape `TU/STSong(1)/b/n' undefined
-(Font)              using `TU/STSong(1)/m/n' instead on input line 24.
-
-
 Overfull \hbox (6.02248pt too wide) in paragraph at lines 24--24
 []|[]| 
  []
@@ -1722,20 +1730,26 @@ File: example-image-a.pdf Graphic file (type pdf)
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/b/n' will be
 (Font)              scaled to size 21.68085pt on input line 27.
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/b/n' will be
-(Font)              scaled to size 10.84042pt on input line 29.
+(Font)              scaled to size 10.84042pt on input line 38.
 
 
 [1
 
 
 ]
+Overfull \hbox (14.62987pt too wide) in paragraph at lines 50--51
+[]\TU/texgyretermes(0)/m/n/12.045 Finally, this thesis summarizes the main cont
+ributions of the research work and prospects
+ []
+
+
 
 [2
 
 
 ]
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/m/n' will be
-(Font)              scaled to size 14.8499pt on input line 37.
+(Font)              scaled to size 14.8499pt on input line 55.
  (./hziee-bachelor.toc)
 \tf@toc=\write5
 \openout5 = `hziee-bachelor.toc'.
@@ -1748,29 +1762,93 @@ LaTeX Font Info:    Font shape `TU/texgyreheros(0)/m/n' will be
 ]
 1
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/m/n' will be
-(Font)              scaled to size 13.55052pt on input line 43.
+(Font)              scaled to size 13.55052pt on input line 67.
 
 
 [1
 
 
 ]
+
+[2]
+
+[3]
 2
 File: example-image.pdf Graphic file (type pdf)
 <use example-image.pdf>
 
 
-[2
+[4
 
 ]
 3
 
 
-[3
+[5
 
 ]
 
-[4
+[6]
+4
+
+
+[7
+
+]
+
+[8]
+5
+
+
+[9
+
+]
+
+[10]
+6
+
+
+[11
+
+]
+
+[12] (./hziee-bachelor.bbl
+
+[13
+
+])
+
+[14
+
+]
+附录 A
+
+
+[15
+
+]
+
+[16]
+附录 B
+(/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 486.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+)
+
+[17
+
+]
+
+[18]
+附录 C
+
+
+[19
 
 ] (./hziee-bachelor.aux)
  ***********
@@ -1782,15 +1860,15 @@ L3 programming layer <2020/04/10>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `hziee-bachelor.out' has not changed.
-(rerunfilecheck)             Checksum: 7D81CFEF5D1F98DB752ADB83813C7B7D;512.
+(rerunfilecheck)             Checksum: 0D0D29573BBDF918EB7FDD7CCE06718D;2697.
  ) 
 Here is how much of TeX's memory you used:
- 72672 strings out of 473832
- 1888384 string characters out of 5729481
- 2815466 words of memory out of 5000000
- 94838 multiletter control sequences out of 15000+600000
- 576460 words of font info for 195 fonts, out of 8000000 for 9000
+ 73572 strings out of 473832
+ 1908257 string characters out of 5729481
+ 3008617 words of memory out of 5000000
+ 95710 multiletter control sequences out of 15000+600000
+ 576516 words of font info for 202 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 141i,14n,149p,3290b,1051s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 141i,14n,149p,3290b,2389s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on hziee-bachelor.xdv (9 pages, 57520 bytes).
+Output written on hziee-bachelor.pdf (24 pages).
