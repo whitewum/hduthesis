@@ -4,69 +4,77 @@
 \contentsline {section}{\numberline {1.2}相关技术综述}{1}{section.1.2}%
 \contentsline {subsection}{\numberline {1.2.1}计算机视觉技术发展}{2}{subsection.1.2.1}%
 \contentsline {subsubsection}{传统计算机视觉方法}{2}{subsubsection*.3}%
-\contentsline {subsubsection}{深度学习方法}{2}{subsubsection*.4}%
+\contentsline {paragraph}{特征提取方法}{2}{paragraph*.4}%
+\contentsline {paragraph}{分类器设计}{2}{paragraph*.5}%
+\contentsline {subsubsection}{深度学习方法}{2}{subsubsection*.6}%
+\contentsline {paragraph}{卷积神经网络架构}{2}{paragraph*.7}%
+\contentsline {paragraph}{注意力机制}{2}{paragraph*.8}%
 \contentsline {subsection}{\numberline {1.2.2}机器学习理论基础}{2}{subsection.1.2.2}%
-\contentsline {subsubsection}{监督学习}{2}{subsubsection*.5}%
-\contentsline {subsubsection}{无监督学习}{3}{subsubsection*.6}%
+\contentsline {subsubsection}{监督学习}{2}{subsubsection*.9}%
+\contentsline {paragraph}{回归问题}{2}{paragraph*.10}%
+\contentsline {paragraph}{分类问题}{3}{paragraph*.11}%
+\contentsline {subsubsection}{无监督学习}{3}{subsubsection*.12}%
+\contentsline {paragraph}{聚类算法}{3}{paragraph*.13}%
+\contentsline {paragraph}{降维技术}{3}{paragraph*.14}%
 \contentsline {chapter}{\numberline {2\hspace {.3em}}格式展示}{4}{chapter.2}%
 \contentsline {section}{\numberline {2.1}数学公式}{4}{section.2.1}%
 \contentsline {section}{\numberline {2.2}图表示例}{4}{section.2.2}%
 \contentsline {chapter}{\numberline {3\hspace {.3em}}系统需求分析}{5}{chapter.3}%
 \contentsline {section}{\numberline {3.1}功能需求分析}{5}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}用户管理模块}{5}{subsection.3.1.1}%
-\contentsline {subsubsection}{用户注册功能}{5}{subsubsection*.9}%
-\contentsline {subsubsection}{用户认证功能}{5}{subsubsection*.10}%
+\contentsline {subsubsection}{用户注册功能}{5}{subsubsection*.17}%
+\contentsline {subsubsection}{用户认证功能}{5}{subsubsection*.18}%
 \contentsline {subsection}{\numberline {3.1.2}数据处理模块}{5}{subsection.3.1.2}%
-\contentsline {subsubsection}{数据预处理}{5}{subsubsection*.11}%
-\contentsline {subsubsection}{数据分析引擎}{5}{subsubsection*.12}%
+\contentsline {subsubsection}{数据预处理}{5}{subsubsection*.19}%
+\contentsline {subsubsection}{数据分析引擎}{5}{subsubsection*.20}%
 \contentsline {section}{\numberline {3.2}非功能需求分析}{5}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}性能需求}{6}{subsection.3.2.1}%
-\contentsline {subsubsection}{响应时间要求}{6}{subsubsection*.13}%
-\contentsline {subsubsection}{并发处理能力}{6}{subsubsection*.14}%
+\contentsline {subsection}{\numberline {3.2.1}性能需求}{5}{subsection.3.2.1}%
+\contentsline {subsubsection}{响应时间要求}{5}{subsubsection*.21}%
+\contentsline {subsubsection}{并发处理能力}{6}{subsubsection*.22}%
 \contentsline {subsection}{\numberline {3.2.2}安全性需求}{6}{subsection.3.2.2}%
-\contentsline {subsubsection}{数据安全}{6}{subsubsection*.15}%
-\contentsline {subsubsection}{访问控制}{6}{subsubsection*.16}%
+\contentsline {subsubsection}{数据安全}{6}{subsubsection*.23}%
+\contentsline {subsubsection}{访问控制}{6}{subsubsection*.24}%
 \contentsline {chapter}{\numberline {4\hspace {.3em}}系统设计与实现}{7}{chapter.4}%
 \contentsline {section}{\numberline {4.1}系统架构设计}{7}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}整体架构}{7}{subsection.4.1.1}%
-\contentsline {subsubsection}{表现层设计}{7}{subsubsection*.17}%
-\contentsline {subsubsection}{业务逻辑层设计}{7}{subsubsection*.18}%
+\contentsline {subsubsection}{表现层设计}{7}{subsubsection*.25}%
+\contentsline {subsubsection}{业务逻辑层设计}{7}{subsubsection*.26}%
 \contentsline {subsection}{\numberline {4.1.2}数据库设计}{7}{subsection.4.1.2}%
-\contentsline {subsubsection}{核心数据表}{7}{subsubsection*.19}%
-\contentsline {subsubsection}{索引优化}{7}{subsubsection*.20}%
+\contentsline {subsubsection}{核心数据表}{7}{subsubsection*.27}%
+\contentsline {subsubsection}{索引优化}{7}{subsubsection*.28}%
 \contentsline {section}{\numberline {4.2}核心算法实现}{7}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}机器学习算法}{8}{subsection.4.2.1}%
-\contentsline {subsubsection}{分类算法实现}{8}{subsubsection*.21}%
-\contentsline {subsubsection}{聚类算法实现}{8}{subsubsection*.22}%
+\contentsline {subsection}{\numberline {4.2.1}机器学习算法}{7}{subsection.4.2.1}%
+\contentsline {subsubsection}{分类算法实现}{7}{subsubsection*.29}%
+\contentsline {subsubsection}{聚类算法实现}{8}{subsubsection*.30}%
 \contentsline {subsection}{\numberline {4.2.2}优化算法}{8}{subsection.4.2.2}%
-\contentsline {subsubsection}{遗传算法}{8}{subsubsection*.23}%
-\contentsline {subsubsection}{粒子群算法}{8}{subsubsection*.24}%
+\contentsline {subsubsection}{遗传算法}{8}{subsubsection*.31}%
+\contentsline {subsubsection}{粒子群算法}{8}{subsubsection*.32}%
 \contentsline {chapter}{\numberline {5\hspace {.3em}}实验结果与分析}{9}{chapter.5}%
 \contentsline {section}{\numberline {5.1}实验环境与设置}{9}{section.5.1}%
 \contentsline {subsection}{\numberline {5.1.1}硬件环境}{9}{subsection.5.1.1}%
-\contentsline {subsubsection}{性能基准测试}{9}{subsubsection*.25}%
+\contentsline {subsubsection}{性能基准测试}{9}{subsubsection*.33}%
 \contentsline {subsection}{\numberline {5.1.2}软件环境}{9}{subsection.5.1.2}%
-\contentsline {subsubsection}{开发环境配置}{9}{subsubsection*.26}%
+\contentsline {subsubsection}{开发环境配置}{9}{subsubsection*.34}%
 \contentsline {section}{\numberline {5.2}实验结果}{9}{section.5.2}%
 \contentsline {subsection}{\numberline {5.2.1}性能测试结果}{9}{subsection.5.2.1}%
-\contentsline {subsubsection}{响应时间测试}{10}{subsubsection*.27}%
-\contentsline {subsubsection}{吞吐量测试}{10}{subsubsection*.28}%
+\contentsline {subsubsection}{响应时间测试}{10}{subsubsection*.35}%
+\contentsline {subsubsection}{吞吐量测试}{10}{subsubsection*.36}%
 \contentsline {subsection}{\numberline {5.2.2}准确性测试结果}{10}{subsection.5.2.2}%
-\contentsline {subsubsection}{分类准确率}{10}{subsubsection*.29}%
-\contentsline {subsubsection}{聚类效果评估}{10}{subsubsection*.30}%
+\contentsline {subsubsection}{分类准确率}{10}{subsubsection*.37}%
+\contentsline {subsubsection}{聚类效果评估}{10}{subsubsection*.38}%
 \contentsline {chapter}{\numberline {6\hspace {.3em}}总结与展望}{11}{chapter.6}%
 \contentsline {section}{\numberline {6.1}研究工作总结}{11}{section.6.1}%
 \contentsline {subsection}{\numberline {6.1.1}主要成果}{11}{subsection.6.1.1}%
-\contentsline {subsubsection}{理论贡献}{11}{subsubsection*.31}%
-\contentsline {subsubsection}{技术实现}{11}{subsubsection*.32}%
+\contentsline {subsubsection}{理论贡献}{11}{subsubsection*.39}%
+\contentsline {subsubsection}{技术实现}{11}{subsubsection*.40}%
 \contentsline {subsection}{\numberline {6.1.2}实验验证}{11}{subsection.6.1.2}%
 \contentsline {section}{\numberline {6.2}未来工作展望}{11}{section.6.2}%
 \contentsline {subsection}{\numberline {6.2.1}技术改进方向}{11}{subsection.6.2.1}%
-\contentsline {subsubsection}{算法优化}{11}{subsubsection*.33}%
-\contentsline {subsubsection}{系统扩展}{11}{subsubsection*.34}%
+\contentsline {subsubsection}{算法优化}{11}{subsubsection*.41}%
+\contentsline {subsubsection}{系统扩展}{11}{subsubsection*.42}%
 \contentsline {subsection}{\numberline {6.2.2}应用前景}{11}{subsection.6.2.2}%
-\contentsline {section}{\numberline {6.3}模板说明}{12}{section.6.3}%
-\contentsline {chapter}{致谢}{13}{chapter*.35}%
+\contentsline {section}{\numberline {6.3}模板说明}{11}{section.6.3}%
+\contentsline {chapter}{致谢}{13}{chapter*.43}%
 \contentsline {chapter}{\numberline {附录 A\hspace {.3em}}模板使用说明}{15}{appendix.A}%
 \contentsline {section}{\numberline {A.1}编译方式}{15}{section.A.1}%
 \contentsline {section}{\numberline {A.2}计算机类本科毕业论文写作规范}{15}{section.A.2}%

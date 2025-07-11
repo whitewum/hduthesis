@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.10)  11 JUL 2025 15:57
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.10)  11 JUL 2025 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1466,32 +1466,32 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cfttabnumwidth=\skip123
 ))
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 22.
+h' as default language. on input line 30.
 
 (./hziee-bachelor.aux)
 \openout1 = `hziee-bachelor.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-Package hyperref Info: Link coloring OFF on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+Package hyperref Info: Link coloring OFF on input line 30.
  (./hziee-bachelor.out) (./hziee-bachelor.out)
 \@outlinefile=\write4
 \openout4 = `hziee-bachelor.out'.
@@ -1501,8 +1501,8 @@ Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
 \c@lstlisting=\count436
-LaTeX Info: Redefining \d on input line 22.
-LaTeX Info: Redefining \partial on input line 22.
+LaTeX Info: Redefining \d on input line 30.
+LaTeX Info: Redefining \partial on input line 30.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/translations/translations-basic-d
 ictionary-english.trsl
@@ -1510,13 +1510,13 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 22.
-LaTeX Info: Redefining \Re on input line 22.
-LaTeX Info: Redefining \Im on input line 22.
+or `english'. on input line 30.
+LaTeX Info: Redefining \Re on input line 30.
+LaTeX Info: Redefining \Im on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 30.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1588,82 +1588,82 @@ Package caption Info: End \AtBeginDocument code.
 
 
 LaTeX Font Warning: Font shape `TU/STSong(1)/b/n' undefined
-(Font)              using `TU/STSong(1)/m/n' instead on input line 24.
+(Font)              using `TU/STSong(1)/m/n' instead on input line 32.
 
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
-(Font)              scaled to size 12.04628pt on input line 24.
+(Font)              scaled to size 12.04628pt on input line 32.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
-(Font)              scaled to size 8.4324pt on input line 24.
+(Font)              scaled to size 8.4324pt on input line 32.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
-(Font)              scaled to size 6.62546pt on input line 24.
+(Font)              scaled to size 6.62546pt on input line 32.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(3)/m/n' will be
-(Font)              scaled to size 12.0437pt on input line 24.
+(Font)              scaled to size 12.0437pt on input line 32.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(3)/m/n' will be
-(Font)              scaled to size 8.43059pt on input line 24.
+(Font)              scaled to size 8.43059pt on input line 32.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(3)/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 24.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+(Font)              scaled to size 6.62404pt on input line 32.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
 
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (6.02248pt too wide) in paragraph at lines 24--24
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 32--32
 []|[]| 
  []
 
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
-(Font)              scaled to size 18.06941pt on input line 24.
+(Font)              scaled to size 18.06941pt on input line 32.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
-(Font)              scaled to size 15.05785pt on input line 24.
+(Font)              scaled to size 15.05785pt on input line 32.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(3)/m/n' will be
-(Font)              scaled to size 18.06555pt on input line 24.
+(Font)              scaled to size 18.06555pt on input line 32.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(3)/m/n' will be
-(Font)              scaled to size 15.05463pt on input line 24.
+(Font)              scaled to size 15.05463pt on input line 32.
 
-Overfull \hbox (6.02248pt too wide) in paragraph at lines 24--24
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 32--32
 []|[]| 
  []
 
 
-Overfull \hbox (6.02248pt too wide) in paragraph at lines 24--24
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 32--32
 []|[]| 
  []
 
 
-Overfull \hbox (6.02248pt too wide) in paragraph at lines 24--24
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 32--32
 []|[]| 
  []
 
 
-Overfull \hbox (6.02248pt too wide) in paragraph at lines 24--24
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 32--32
 []|[]| 
  []
 
 
-Overfull \hbox (6.02248pt too wide) in paragraph at lines 24--24
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 32--32
 []|[]| 
  []
 
 
-Overfull \hbox (6.02248pt too wide) in paragraph at lines 24--24
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 32--32
 []|[]| 
  []
 
 
-Overfull \hbox (6.02248pt too wide) in paragraph at lines 24--24
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 32--32
 []|[]| 
  []
 
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/m/n' will be
-(Font)              scaled to size 10.84042pt on input line 24.
+(Font)              scaled to size 10.84042pt on input line 32.
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/m/n' will be
-(Font)              scaled to size 16.26062pt on input line 24.
+(Font)              scaled to size 16.26062pt on input line 32.
 
 
 [1
@@ -1703,22 +1703,22 @@ LaTeX Font Info:    Font shape `TU/texgyreheros(0)/m/n' will be
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/b/n' will be
-(Font)              scaled to size 16.26062pt on input line 25.
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 25.
+(Font)              scaled to size 16.26062pt on input line 33.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 33.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
-(Font)              scaled to size 14.0015pt on input line 25.
+(Font)              scaled to size 14.0015pt on input line 33.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
-(Font)              scaled to size 9.801pt on input line 25.
+(Font)              scaled to size 9.801pt on input line 33.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 25.
+(Font)              scaled to size 7.00075pt on input line 33.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(3)/m/n' will be
-(Font)              scaled to size 13.9985pt on input line 25.
+(Font)              scaled to size 13.9985pt on input line 33.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(3)/m/n' will be
-(Font)              scaled to size 9.7989pt on input line 25.
+(Font)              scaled to size 9.7989pt on input line 33.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 25.
+(Font)              scaled to size 6.99925pt on input line 33.
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/b/n' will be
-(Font)              scaled to size 12.59991pt on input line 25.
+(Font)              scaled to size 12.59991pt on input line 33.
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
 
@@ -1728,16 +1728,16 @@ File: example-image-a.pdf Graphic file (type pdf)
 
 ]
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/b/n' will be
-(Font)              scaled to size 21.68085pt on input line 27.
+(Font)              scaled to size 21.68085pt on input line 35.
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/b/n' will be
-(Font)              scaled to size 10.84042pt on input line 38.
+(Font)              scaled to size 10.84042pt on input line 46.
 
 
 [1
 
 
 ]
-Overfull \hbox (14.62987pt too wide) in paragraph at lines 50--51
+Overfull \hbox (14.62987pt too wide) in paragraph at lines 58--59
 []\TU/texgyretermes(0)/m/n/12.045 Finally, this thesis summarizes the main cont
 ributions of the research work and prospects
  []
@@ -1749,7 +1749,7 @@ ributions of the research work and prospects
 
 ]
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/m/n' will be
-(Font)              scaled to size 14.8499pt on input line 55.
+(Font)              scaled to size 14.8499pt on input line 63.
  (./hziee-bachelor.toc)
 \tf@toc=\write5
 \openout5 = `hziee-bachelor.toc'.
@@ -1762,7 +1762,7 @@ LaTeX Font Info:    Font shape `TU/texgyreheros(0)/m/n' will be
 ]
 1
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/m/n' will be
-(Font)              scaled to size 13.55052pt on input line 67.
+(Font)              scaled to size 13.55052pt on input line 75.
 
 
 [1
@@ -1834,7 +1834,7 @@ File: example-image.pdf Graphic file (type pdf)
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 486.
+nput line 520.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
@@ -1860,12 +1860,12 @@ L3 programming layer <2020/04/10>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `hziee-bachelor.out' has not changed.
-(rerunfilecheck)             Checksum: 0D0D29573BBDF918EB7FDD7CCE06718D;2697.
+(rerunfilecheck)             Checksum: 616A131567D3D115F4BC608AF8016981;2697.
  ) 
 Here is how much of TeX's memory you used:
  73572 strings out of 473832
  1908257 string characters out of 5729481
- 3008617 words of memory out of 5000000
+ 3008733 words of memory out of 5000000
  95710 multiletter control sequences out of 15000+600000
  576516 words of font info for 202 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
