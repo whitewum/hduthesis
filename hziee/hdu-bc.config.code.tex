@@ -32,12 +32,12 @@
 \hook_gput_code:nnn {cmd/tableofcontents/before} { . }
   {
     \clearpage
-    \pagenumbering{Roman} \cfoot{\small \thepage}
+    \pagenumbering{Roman} \cfoot{}
   }
 \hook_gput_code:nnn { cmd/tableofcontents/after } { . }
   {
     \thispagestyle{fancy} \clearpage
-    \pagenumbering{arabic} \cfoot{}
+    \pagenumbering{arabic} \cfoot{\fontsize{9pt}{9pt}\selectfont\songti\thepage}
   }
 \RenewDocumentCommand \maketitle {}
   {
