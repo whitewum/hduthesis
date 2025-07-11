@@ -30,7 +30,10 @@
 .backlog/
 .hdu/
 # Exclude specific files or folders
+
 CLAUDE.md
+
 GEMINI.md
+
 *.claude
 .DS_Store
