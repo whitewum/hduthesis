@@ -1,0 +1,135 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.10)  11 JUL 2025 11:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**hduthesis.ins
+(./hduthesis.ins
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/docstrip.tex
+\blockLevel=\count196
+\emptyLines=\count197
+\processedLines=\count198
+\commentsRemoved=\count199
+\commentsPassed=\count266
+\codeLinesPassed=\count267
+\TotalprocessedLines=\count268
+\TotalcommentsRemoved=\count269
+\TotalcommentsPassed=\count270
+\TotalcodeLinesPassed=\count271
+\NumberOfFiles=\count272
+\inFile=\read2
+\inputcheck=\read3
+\off@0=\count273
+\off@1=\count274
+\off@2=\count275
+\off@3=\count276
+\off@4=\count277
+\off@5=\count278
+\off@6=\count279
+\off@7=\count280
+\off@8=\count281
+\off@9=\count282
+\off@10=\count283
+\off@11=\count284
+\off@12=\count285
+\off@13=\count286
+\off@14=\count287
+\off@15=\count288
+\@maxfiles=\count289
+\@maxoutfiles=\count290
+
+Utility: `docstrip' v2.6b <2022-09-03>
+English documentation    <2024-02-08>
+
+**********************************************************
+* This program converts documented macro-files into fast *
+* loadable files by stripping off (nearly) all comments! *
+**********************************************************
+
+********************************************************
+* No Configuration file found, using default settings. *
+********************************************************
+
+)
+
+Generating file(s) ./hduthesis.cls ./hdu-typeset.code.tex ./hdu-layout.code.tex
+ ./hdu-bc.config.code.tex ./hdu-pg.config.code.tex ./hdu-stationery.code.tex ./
+hdu-exam.code.tex ./hdu-l3doc.code.tex ./beamerthemehdu.sty ./hdu-logo.pdf ./hd
+u-title.pdf ./hdu-badge.pdf ./hdu-motto.pdf ./README.md 
+\openout0 = `./hduthesis.cls'.
+
+\openout1 = `./hdu-typeset.code.tex'.
+
+\openout2 = `./hdu-layout.code.tex'.
+
+\openout3 = `./hdu-bc.config.code.tex'.
+
+\openout4 = `./hdu-pg.config.code.tex'.
+
+\openout5 = `./hdu-stationery.code.tex'.
+
+\openout6 = `./hdu-exam.code.tex'.
+
+\openout7 = `./hdu-l3doc.code.tex'.
+
+\openout8 = `./beamerthemehdu.sty'.
+
+\openout9 = `./README.md'.
+
+
+Processing file hduthesis.dtx (class) -> hduthesis.cls
+                              (typeset) -> hdu-typeset.code.tex
+                              (layout) -> hdu-layout.code.tex
+                              (bc.config) -> hdu-bc.config.code.tex
+                              (pg.config) -> hdu-pg.config.code.tex
+                              (stationery) -> hdu-stationery.code.tex
+                              (exam) -> hdu-exam.code.tex
+                              (l3doc) -> hdu-l3doc.code.tex
+                              (beamer) -> beamerthemehdu.sty
+                              (readme) -> README.md
+Lines  processed: 2557
+Comments removed: 1043
+Comments  passed: 0
+Codelines passed: 1485
+
+\openout0 = `./hdu-logo.pdf'.
+
+\openout1 = `./hdu-title.pdf'.
+
+\openout2 = `./hdu-badge.pdf'.
+
+\openout3 = `./hdu-motto.pdf'.
+
+
+Processing file hdu-graphics.dtx (hdu-logo) -> hdu-logo.pdf
+                                 (hdu-title) -> hdu-title.pdf
+                                 (hdu-badge) -> hdu-badge.pdf
+                                 (hdu-motto) -> hdu-motto.pdf
+Lines  processed: 3556
+Comments removed: 115
+Comments  passed: 12
+Codelines passed: 3415
+
+Overall statistics:
+Files  processed: 2
+Lines  processed: 6113
+Comments removed: 1158
+Comments  passed: 12
+Codelines passed: 4900
+ ) 
+Here is how much of TeX's memory you used:
+ 456 strings out of 473190
+ 5530 string characters out of 5715800
+ 400029 words of memory out of 5000000
+ 23787 multiletter control sequences out of 15000+600000
+ 558837 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 14i,0n,15p,178b,238s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

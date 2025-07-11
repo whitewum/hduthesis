@@ -1,0 +1,103 @@
+\iffalse meta-comment
+
+File: hduthesis.ins
+-----------------------------------------------------------------------
+  Copyright (C) 2023-2025 by Mingyu Xia <myhsia@outlook.com>          *
+                                                                      *
+  It may be distributed and/or modified under the conditions of the   *
+  LaTeX Project Public License (LPPL), either version 1.3c of this    *
+  license or (at your option) any later version. The latest version   *
+  of this license is in the file                                      *
+                                                                      *
+      http://www.latex-project.org/lppl.txt                           *
+                                                                      *
+  This work has the LPPL maintenance status `maintained'.             *
+                                                                      *
+  The Current Maintainer of this work is Mingyu Xia.                  *
+                                                                      *
+  This work consists of the files hduthesis.dtx,                      *
+                                  hdu-graphics.dtx,                   *
+                              and hduthesis.ins,                      *
+            and the derived files hduthesis.cls,                      *
+                                  hdu-<module>.code.tex,              *
+                                  beamerthemehdu.sty,                 *
+                                  hdu-logo.pdf,                       *
+                                  hdu-title.pdf,                      *
+                                  hdu-badge.pdf,                      *
+                                  hdu-motto.pdf,                      *
+                                  hduthesis.pdf,                      *
+                                  hdu-graphics.pdf,                   *
+                              and README.md.                          *
+-----------------------------------------------------------------------
+
+  Any modification of this file should ensure that the copyright and
+  license information is placed in the derived files.
+
+-----------------------------------------------------------------------
+
+\fi
+
+\input docstrip %
+\askforoverwritefalse
+
+\preamble
+-----------------------------------------------------------------------
+  Copyright (C) 2023-2025 by Mingyu Xia <myhsia@outlook.com>          *
+                                                                      *
+  It may be distributed and/or modified under the conditions of the   *
+  LaTeX Project Public License (LPPL), either version 1.3c of this    *
+  license or (at your option) any later version. The latest version   *
+  of this license is in the file                                      *
+                                                                      *
+      http://www.latex-project.org/lppl.txt                           *
+                                                                      *
+  This work has the LPPL maintenance status `maintained'.             *
+                                                                      *
+  The Current Maintainer of this work is Mingyu Xia.                  *
+-----------------------------------------------------------------------
+\endpreamble
+
+\postamble
+-----------------------------------------------------------------------
+  This work consists of the files hduthesis.dtx,                      *
+                                  hdu-graphics.dtx,                   *
+                              and hduthesis.ins,                      *
+            and the derived files hduthesis.cls,                      *
+                                  hdu-<module>.code.tex,              *
+                                  beamerthemehdu.sty,                 *
+                                  hdu-logo.pdf,                       *
+                                  hdu-title.pdf,                      *
+                                  hdu-badge.pdf,                      *
+                                  hdu-motto.pdf,                      *
+                                  hduthesis.pdf,                      *
+                                  hdu-graphics.pdf,                   *
+                              and README.md.                          *
+-----------------------------------------------------------------------
+\endpostamble
+
+\keepsilent
+
+\generate{
+  \usedir{tex/latex/hduthesis}
+    \file{hduthesis.cls}             {\from{hduthesis.dtx}{class}       }
+    \file{hdu-typeset.code.tex}      {\from{hduthesis.dtx}{typeset}     }
+    \file{hdu-layout.code.tex}       {\from{hduthesis.dtx}{layout}      }
+    \file{hdu-bc.config.code.tex}    {\from{hduthesis.dtx}{bc.config}   }
+    \file{hdu-pg.config.code.tex}    {\from{hduthesis.dtx}{pg.config}   }
+    \file{hdu-stationery.code.tex}   {\from{hduthesis.dtx}{stationery}  }
+    \file{hdu-exam.code.tex}         {\from{hduthesis.dtx}{exam}        }
+    \file{hdu-l3doc.code.tex}        {\from{hduthesis.dtx}{l3doc}       }
+    \file{beamerthemehdu.sty}        {\from{hduthesis.dtx}{beamer}      }
+  \nopreamble \nopostamble \let \MetaPrefix \perCent
+    \file{hdu-logo.pdf}              {\from{hdu-graphics.dtx}{hdu-logo} }
+    \file{hdu-title.pdf}             {\from{hdu-graphics.dtx}{hdu-title}}
+    \file{hdu-badge.pdf}             {\from{hdu-graphics.dtx}{hdu-badge}}
+    \file{hdu-motto.pdf}             {\from{hdu-graphics.dtx}{hdu-motto}}
+  \usedir{doc/latex/hduthesis}
+    \file{README.md}                 {\from{hduthesis.dtx}{readme}      }
+}
+
+\endbatchfile
+\endinput
+%%
+%% End of file `hduthesis.ins'

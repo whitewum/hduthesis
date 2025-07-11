@@ -1,0 +1,8 @@
+\contentsline {chapter}{\numberline {1\hspace {.3em}}引言}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}模板特点}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}使用方法}{1}{subsection.1.1.1}%
+\contentsline {chapter}{\numberline {2\hspace {.3em}}格式展示}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}数学公式}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}图表示例}{2}{section.2.2}%
+\contentsline {chapter}{\numberline {3\hspace {.3em}}总结}{3}{chapter.3}%
+\contentsline {chapter}{附录}{4}{appendix*.5}%
