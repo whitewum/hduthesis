@@ -1,0 +1,78 @@
+\documentclass
+  [
+    math-font    = STIX Two Math, agreed,
+    CJKmain-font = { {Songti SC}[AutoFakeBold = 2.5, AutoFakeSlant] },
+    CJKsans-font = { {STHeiti}[AutoFakeBold = 2] }
+  ] {hzieethesis}
+\tikzset{ > = stealth }
+\usetikzlibrary{positioning, shapes.geometric}
+
+\hduset
+  {
+    title      = HDU 学士学位论文 \hologo{LaTeX} 模板示例文档/
+                 本科毕业设计,
+    department = 理学院,
+    major      = 物理学,
+    class      = 英才班,
+    stdntid    = C668668E,
+    author     = 申智能,
+    supervisor = 教授:葉芷晴,
+    % bibsource  = xampl
+  }
+
+\begin{document}
+
+\maketitle
+\commitment [ example-image-a/2024-05-31 ]
+
+\begin{abstract}[cn]
+  \keywords{杭州电子科技大学信息工程学院, 毕业论文, \hologo{LaTeX3}, }
+\end{abstract}
+
+\begin{abstract}[en]
+  \keywords{HZIEE, thesis, \hologo{LaTeX3}, }
+\end{abstract}
+
+\tableofcontents
+
+\chapter{引言}
+1
+
+\cite{whole-journal}
+
+\zhlipsum[2]
+\cite{inbook-crossref,whole-set,booklet-full,incollection-crossref,whole-collection,manual-full,mastersthesis-full}
+
+\chapter{公式与插图测试}
+
+\begin{equation}
+  (i\gamma^\mu\partial_\mu - m)\psi = 0
+  \label{2-1}
+\end{equation}
+其中 \eqref{2-1} 为Dirac 方程.
+\[
+  S_x = \frac12\sigma_1 = \frac12
+  \begin{pmatrix}
+    0 & 1\\
+    1 & 0
+  \end{pmatrix}, \quad
+  S_y = \frac12\sigma_1 = \frac12
+  \begin{pmatrix}
+    0 & -i\\
+    i & 0
+  \end{pmatrix}, \quad
+  S_z = \frac12\sigma_1 = \frac12
+  \begin{pmatrix}
+    1 & 0\\
+    0 & -1
+  \end{pmatrix}
+\]
+上式为 Pauli 矩阵.
+
+\printbibliography
+
+\appendix
+\chapter*{附录}
+\addcontentsline{toc}{chapter}{附录}
+
+\end{document}
