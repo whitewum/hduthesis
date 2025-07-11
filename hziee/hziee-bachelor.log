@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.10)  11 JUL 2025 11:59
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.10)  11 JUL 2025 14:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1577,8 +1577,10 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-File: hdu-title.pdf Graphic file (type pdf)
-<use hdu-title.pdf>
+
+LaTeX Font Warning: Font shape `TU/STSong(1)/b/n' undefined
+(Font)              using `TU/STSong(1)/m/n' instead on input line 25.
+
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
 (Font)              scaled to size 12.04628pt on input line 25.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
@@ -1624,7 +1626,7 @@ LaTeX Font Info:    Font shape `TU/texgyreheros(0)/m/n' will be
 
 
 ]
-Overfull \vbox (61.17365pt too high) has occurred while \output is active []
+Overfull \vbox (43.5875pt too high) has occurred while \output is active []
 
 
 
@@ -1746,16 +1748,20 @@ File: example-image.pdf Graphic file (type pdf)
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/04/10>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `hziee-bachelor.out' has not changed.
 (rerunfilecheck)             Checksum: 7D81CFEF5D1F98DB752ADB83813C7B7D;512.
  ) 
 Here is how much of TeX's memory you used:
- 72682 strings out of 473832
- 1888770 string characters out of 5729481
- 2813488 words of memory out of 5000000
+ 72691 strings out of 473832
+ 1889072 string characters out of 5729481
+ 2813496 words of memory out of 5000000
  94851 multiletter control sequences out of 15000+600000
- 578309 words of font info for 200 fonts, out of 8000000 for 9000
+ 578365 words of font info for 207 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  141i,14n,149p,3290b,1051s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on hziee-bachelor.pdf (10 pages).
+Output written on hziee-bachelor.xdv (10 pages, 58072 bytes).
