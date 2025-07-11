@@ -1,0 +1,35 @@
+# LaTeX intermediate and output files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.pdf
+*.dvi
+*.ps
+*.eps
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.run.xml
+*.bcf
+
+# Temporary files
+*.tmp
+*.bak
+*.sav
+
+# Directories to ignore
+backlog/
+hdu/
+# Exclude specific files or folders
+CLAUDE*
+GEMINI*
+*.claude
