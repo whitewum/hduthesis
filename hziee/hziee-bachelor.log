@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.10)  11 JUL 2025 14:28
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.10)  11 JUL 2025 14:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1604,33 +1604,63 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 25--25
+[]|[]| 
+ []
+
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
-(Font)              scaled to size 22.08484pt on input line 25.
+(Font)              scaled to size 18.06941pt on input line 25.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
-(Font)              scaled to size 16.0617pt on input line 25.
-LaTeX Font Info:    Font shape `TU/STIXTwoMath(2)/m/n' will be
-(Font)              scaled to size 14.05399pt on input line 25.
+(Font)              scaled to size 15.05785pt on input line 25.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(3)/m/n' will be
-(Font)              scaled to size 22.08012pt on input line 25.
+(Font)              scaled to size 18.06555pt on input line 25.
 LaTeX Font Info:    Font shape `TU/STIXTwoMath(3)/m/n' will be
-(Font)              scaled to size 16.05827pt on input line 25.
-LaTeX Font Info:    Font shape `TU/STIXTwoMath(3)/m/n' will be
-(Font)              scaled to size 14.05098pt on input line 25.
+(Font)              scaled to size 15.05463pt on input line 25.
+
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 25--25
+[]|[]| 
+ []
+
+
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 25--25
+[]|[]| 
+ []
+
+
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 25--25
+[]|[]| 
+ []
+
+
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 25--25
+[]|[]| 
+ []
+
+
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 25--25
+[]|[]| 
+ []
+
+
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 25--25
+[]|[]| 
+ []
+
+
+Overfull \hbox (6.02248pt too wide) in paragraph at lines 25--25
+[]|[]| 
+ []
+
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/m/n' will be
 (Font)              scaled to size 10.84042pt on input line 25.
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/m/n' will be
-(Font)              scaled to size 19.8741pt on input line 25.
+(Font)              scaled to size 16.26062pt on input line 25.
 
 
 [1
 
 
 ]
-Overfull \vbox (43.5875pt too high) has occurred while \output is active []
-
-
-
-[2]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: <default>
@@ -1663,8 +1693,6 @@ Overfull \vbox (43.5875pt too high) has occurred while \output is active []
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Font shape `TU/texgyreheros(0)/m/n' will be
-(Font)              scaled to size 16.26062pt on input line 26.
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/b/n' will be
 (Font)              scaled to size 16.26062pt on input line 26.
 LaTeX Font Info:    Calculating math sizes for size <14> on input line 26.
@@ -1752,16 +1780,22 @@ L3 programming layer <2020/04/10>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `hziee-bachelor.out' has not changed.
-(rerunfilecheck)             Checksum: 7D81CFEF5D1F98DB752ADB83813C7B7D;512.
+
+Package rerunfilecheck Warning: File `hziee-bachelor.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `hziee-bachelor.out':
+(rerunfilecheck)             Before: 2D7AB8C9BA3413A45E4C4F67B32244BD;656
+(rerunfilecheck)             After:  7D81CFEF5D1F98DB752ADB83813C7B7D;512.
  ) 
 Here is how much of TeX's memory you used:
- 72693 strings out of 473832
- 1889171 string characters out of 5729481
- 2813508 words of memory out of 5000000
- 94852 multiletter control sequences out of 15000+600000
- 578373 words of font info for 208 fonts, out of 8000000 for 9000
+ 72675 strings out of 473832
+ 1888497 string characters out of 5729481
+ 2815515 words of memory out of 5000000
+ 94840 multiletter control sequences out of 15000+600000
+ 576468 words of font info for 196 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  141i,14n,149p,3290b,1051s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on hziee-bachelor.pdf (10 pages).
+Output written on hziee-bachelor.pdf (9 pages).

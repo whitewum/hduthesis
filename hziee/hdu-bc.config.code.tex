@@ -70,35 +70,35 @@
       \par \vspace*{3.0\baselineskip}
       \begin{tabular}
         {
-          >{\large\bfseries}p{5.5\ccwd}@{}
-          >{\LARGE\centering\arraybackslash\kaishu}p{.65\linewidth}@{}
+          >{\Large\songti\bfseries}p{5.5\ccwd}@{\hskip1em}
+          >{\Large\centering\arraybackslash\kaishu}p{.65\linewidth}@{}
         }
         \__hdu_cover_spread_box:nn { 4\ccwd } { 题目 } &
-        \__hdu_cover_center_box:nn { .95\linewidth }
-          { \@title }\\[5.2ex]
-        \__hdu_cover_spread_box:nn { 4\ccwd } { 学院 } &
-        \__hdu_cover_center_box:nn { .95\linewidth }
-          { \l__hdu_set_department_tl }\\[5.2ex]
+        \__hdu_cover_center_box:nn { 1.0\linewidth }
+          { \@title }\\[2.5ex]
+        \__hdu_cover_spread_box:nn { 4\ccwd } { 学院名称 } &
+        \__hdu_cover_center_box:nn { 1.0\linewidth }
+          { \l__hdu_set_department_tl }\\[2.5ex]
         \__hdu_cover_spread_box:nn { 4\ccwd } { 专业 } &
-        \__hdu_cover_center_box:nn { .95\linewidth }
-          { \l__hdu_set_major_tl }\\[5.2ex]
+        \__hdu_cover_center_box:nn { 1.0\linewidth }
+          { \l__hdu_set_major_tl }\\[2.5ex]
         \__hdu_cover_spread_box:nn { 4\ccwd } { 班级 } &
-        \__hdu_cover_center_box:nn { .95\linewidth }
-          { \l__hdu_set_class_tl }\\[5.2ex]
+        \__hdu_cover_center_box:nn { 1.0\linewidth }
+          { \l__hdu_set_class_tl }\\[2.5ex]
         \__hdu_cover_spread_box:nn { 4\ccwd } { 学号 } &
-        \__hdu_cover_center_box:nn { .95\linewidth }
-          { \l__hdu_set_stdntid_tl }\\[5.2ex]
+        \__hdu_cover_center_box:nn { 1.0\linewidth }
+          { \l__hdu_set_stdntid_tl }\\[2.5ex]
         \__hdu_cover_spread_box:nn { 4\ccwd } { 学生姓名 } &
-        \__hdu_cover_center_box:nn { .95\linewidth }
-          { \@author }\\[5.2ex]
+        \__hdu_cover_center_box:nn { 1.0\linewidth }
+          { \@author }\\[2.5ex]
         \__hdu_cover_spread_box:nn { 4\ccwd } { 指导教师 } &
-        \__hdu_cover_center_box:nn { .95\linewidth }
+        \__hdu_cover_center_box:nn { 1.0\linewidth }
           {
             \l__hdu_set_cnsupervisor_tl \quad
             \l__hdu_set_cnrole_tl
-          }\\[5.2ex]
+          }\\[2.5ex]
         \__hdu_cover_spread_box:nn { 4\ccwd } { 完成日期 } &
-        \__hdu_cover_center_box:nn { .95\linewidth }
+        \__hdu_cover_center_box:nn { 1.0\linewidth }
           {
             \textsf{\int_use:N \c_sys_year_int} 年
             \textsf{\int_use:N \c_sys_month_int} 月
