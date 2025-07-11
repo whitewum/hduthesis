@@ -121,14 +121,10 @@
     \__hdu_process_array:NnnN \l__hdu_set_author_tl {1} {:} \@author
     \__hdu_process_array:NnnN \l__hdu_set_author_tl {2} {:}
       \l__hdu_set_enauthor_tl
-    \__hdu_process_array:NnnN \l__hdu_set_supervisor_tl {1} {1}
-      \l__hdu_set_cnrole_tl
-    \__hdu_process_array:NnnN \l__hdu_set_supervisor_tl {1} {2}
-      \l__hdu_set_cnsupervisor_tl
-    \__hdu_process_array:NnnN \l__hdu_set_supervisor_tl {2} {1}
-      \l__hdu_set_enrole_tl
-    \__hdu_process_array:NnnN \l__hdu_set_supervisor_tl {2} {2}
-      \l__hdu_set_ensupervisor_tl
+    \tl_set:Nn \l__hdu_set_cnsupervisor_tl { \l__hdu_set_supervisor_tl }
+    \tl_clear:N \l__hdu_set_cnrole_tl
+    \tl_clear:N \l__hdu_set_enrole_tl
+    \tl_clear:N \l__hdu_set_ensupervisor_tl
     \bool_if:NF \g__hdu_agreement_bool
       { \tl_clear:N \l__hdu_set_bibsource_tl }
     \tl_if_empty:NTF \l__hdu_set_bibsource_tl

@@ -174,10 +174,7 @@
     \__hdu_load_module:n { layout }
     \cs_new_protected:Nn \__hdu_docinfo_degree_if_aux:
       {
-        \int_compare:nNnTF
-          { \tl_count:N \l__hdu_set_stdntid_tl } = { 8 }
-          { \__hdu_load_module:n { bc.config } }
-          { \__hdu_load_module:n { pg.config } }
+        \__hdu_load_module:n { bc.config }
       }
     \endinput
   }
