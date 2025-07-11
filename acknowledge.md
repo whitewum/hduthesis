@@ -1,1 +1,0 @@
-This work is based on the `hduthesis` LaTeX template, which can be found at https://github.com/myhsia/hduthesis. I have modified and tailored it for my own use.
