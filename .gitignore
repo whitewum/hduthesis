@@ -30,6 +30,7 @@
 .backlog/
 .hdu/
 # Exclude specific files or folders
+AGENTS.md
 
 CLAUDE.md
 
