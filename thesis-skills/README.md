@@ -136,6 +136,8 @@ cp /tmp/thesis-checker.skill ./thesis-checker.skill
 
 ## 已知问题
 
+- 只在ClaudeCode和Codex测试，未在其他AI AGENT测试过。
+- 只在mac进行过测试，未在windows测试过
 - 当前为规则检查工具，不能替代人工最终审核。
 - 内容质量评估只是参考，不应作为专业水平的绝对判断。
 - 多页眉或多节文档中，个别 `passed` 汇总项仍可能需要进一步收紧。
