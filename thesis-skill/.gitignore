@@ -1,0 +1,27 @@
+CLAUDE.md 
+AGENTS.md
+
+# macOS / editor metadata
+.DS_Store
+*.swp
+*.swo
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local test documents and generated reports
+*.docx
+reports/
+_skills_tmp/
+
+# Temporary files
+*.tmp
+*.bak
+ziZkOHPO
+
+# Keep the packaged skill release artifact tracked intentionally.
+!thesis-checker.skill
